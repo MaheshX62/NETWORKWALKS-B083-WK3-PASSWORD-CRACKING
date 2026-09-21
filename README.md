@@ -174,10 +174,9 @@ captured during the completion of the Week 3 practical tasks.
 
 ### W3-PM2 Evidence
 
-- NetworkWalks Hash Calculator
-- PDF upload
+- NW Hash Calculator
 - Extracted hash
-- Password Cracker
+- NW Password Cracker
 - Password-cracking process
 - Recovered password
 - PDF verification

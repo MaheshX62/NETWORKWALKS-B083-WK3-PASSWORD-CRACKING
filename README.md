@@ -156,9 +156,6 @@ NETWORKWALKS-B083-WK3-PASSWORD-CRACKING/
 │   │
 │   └── W3-PM2-NetworkWalks-Tools/
 │       └── [NetworkWalks Tools screenshots]
-│
-└── report/
-    └── W3-PM-FINAL-PASSWORD-CRACKING-REPORT.pdf
 ```
 
 ---
@@ -172,10 +169,7 @@ captured during the completion of the Week 3 practical tasks.
 
 - JTR setup
 - PDF hash extraction
-- Hash file
-- Johnny configuration
 - Password-cracking process
-- Recovered password
 - PDF verification
 
 ### W3-PM2 Evidence
